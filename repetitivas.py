@@ -15,4 +15,4 @@ while i<=n:
 
 print("\nLa suma de los primeros " + str(n) + " numeros es: " + str(sum))
 
-#INICIO
+#FIN
